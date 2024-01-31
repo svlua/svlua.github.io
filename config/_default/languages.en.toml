@@ -10,13 +10,13 @@ title = ""
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "Sailing Lua around the world."
+  description = "Sailing Lua around the World."
   copyright = "Copyright &copy; svlua.com | All rights reserved."
 
 [author]
   name = "SV Lua"
   image = "img/logo.png"
-  headline = "Reimagine the world"
+  headline = "Reimagine the World"
 #   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
