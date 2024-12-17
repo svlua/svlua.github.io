@@ -13,10 +13,11 @@ title = ""
   description = "Sailing Lua around the World."
   copyright = "Copyright &copy; svlua.com | All rights reserved."
 
-[author]
+[params.author]
   name = "SV Lua"
   image = "img/logo.png"
-  headline = "Reimagine the World"
+  headline = "Lua's Uncharted Adventures"
+#  headline = "Reimagine the World"
 #   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
